@@ -1,0 +1,9 @@
+Instalar proyectos de Expo
+
+Paso 1. LEER LO QUE DIGAN EN BJYUS
+Paso 2. En vez de usar "npm install" usar "yarn install"
+Paso 3. Ejecutar "npx expo upgrade 48"
+Paso 4. Si te pide instalar el expo-cli decir Y
+Paso 6. Ejecutar "expo start"
+Paso 5. Decir a todo Y
+Paso 7. Ejecutar en el teléfono
